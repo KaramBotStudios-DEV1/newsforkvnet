@@ -7,6 +7,6 @@ Fixed bug where game crashed during injection.
 Improved DPI scalling.
 Optimization for windows 10 and windows 7
 Added UID for Cheat Detection.
-
+Fixed bugs
 News:
 None.
