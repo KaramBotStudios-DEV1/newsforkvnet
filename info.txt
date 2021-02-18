@@ -4,6 +4,8 @@ Newest release of KVLauncher Premium!
 Important Fixed:
 Fixed where PC Crash during Kernel Mode Injection [Fixed]
 Optimization Issues that may cause blue screen [Fixed]
+.
+.
 Logs:
 Version 1.5.0
 Added more JS, more configs for KV5, KV4, and Onetap V3.
