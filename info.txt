@@ -1,1 +1,12 @@
-Relaunch of KVLauncher with new GUI better Anticheat bypass, fixed injection, and others!
+Newest release of KVLauncher Premium!
+Logs:
+Version 1.5.0
+Added more JS, more configs for KV5, KV4, and Onetap V3.
+Improved injection methods.
+Fixed bug where game crashed during injection.
+Improved DPI scalling.
+Optimization for windows 10 and windows 7
+Added UID for Cheat Detection.
+
+News:
+None.
