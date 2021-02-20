@@ -1,21 +1,14 @@
 Newest release of KVLauncher Premium!
-.
-.
-Important Fixed:
-Fixed where PC Crash during Kernel Mode Injection [Fixed]
-Optimization Issues that may cause blue screen [Fixed]
+
 .
 .
 Logs:
-Version 1.5.0
-Added more JS, more configs for KV5, KV4, and Onetap V3.
-Improved injection methods.
-Fixed bug where game crashed during injection.
-Improved DPI scalling.
-Optimization for windows 10 and windows 7
-Added UID for Cheat Detection.
-Fixed bugs
+<.Version 1.5.0.>
+Fixed where on 125% Scalling, Application looks blurry
+Added more .Js
+Added more Cheats
+Improved Optimization
+Added more Configs
+Added DPI Scalling
 .
 .
-News:
-None.
